@@ -1,0 +1,33 @@
+app key =  rlDGx1iXeD8B9CTdMks01YdBcPFFfplI9eVwmFX9x8A=
+
+'key' => env('APP_KEY', base64_decode('rlDGx1iXeD8B9CTdMks01YdBcPFFfplI9eVwmFX9x8A=')),
+
+$this->app->bind('public.path', function() {return base_path('public_html'); });
+
+
+important files
+1. flip - it detects errors
+
+deletable files 17 files
+bin
+dmeogel
+dragonmantank
+eguilas
+fzaninotto
+hanicrest
+jakub-onderka
+league
+mockery
+nkiic
+paragonie
+phar-io
+phpdocumentor
+phpsec
+sebastian
+theseer
+webmozart
+
+
+copiable files
+1.database
+2.config
